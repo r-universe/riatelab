@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cartography"]
+	path = cartography
+	url = https://github.com/riatelab/cartography
+	shallow = true
+[submodule "MTA"]
+	path = MTA
+	url = https://github.com/riatelab/mta
+	shallow = true
+[submodule "potential"]
+	path = potential
+	url = https://github.com/riatelab/potential
+	shallow = true
