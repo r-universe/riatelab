@@ -7,6 +7,10 @@
 	path = cartography
 	url = https://github.com/riatelab/cartography
 	shallow = true
+[submodule "linemap"]
+	path = linemap
+	url = https://github.com/riatelab/linemap
+	shallow = true
 [submodule "MTA"]
 	path = MTA
 	url = https://github.com/riatelab/mta
