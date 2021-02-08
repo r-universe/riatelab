@@ -15,7 +15,19 @@
 	path = MTA
 	url = https://github.com/riatelab/mta
 	shallow = true
+[submodule "osrm"]
+	path = osrm
+	url = https://github.com/riatelab/osrm
+	shallow = true
 [submodule "potential"]
 	path = potential
 	url = https://github.com/riatelab/potential
+	shallow = true
+[submodule "SpatialPosition"]
+	path = SpatialPosition
+	url = https://github.com/riatelab/SpatialPosition
+	shallow = true
+[submodule "tanaka"]
+	path = tanaka
+	url = https://github.com/riatelab/tanaka
 	shallow = true
