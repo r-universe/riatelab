@@ -11,6 +11,10 @@
 	path = linemap
 	url = https://github.com/riatelab/linemap
 	shallow = true
+[submodule "mapsf"]
+	path = mapsf
+	url = https://github.com/riatelab/mapsf
+	shallow = true
 [submodule "MTA"]
 	path = MTA
 	url = https://github.com/riatelab/mta
