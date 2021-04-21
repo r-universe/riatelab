@@ -18,6 +18,11 @@
 	url = https://github.com/riatelab/mapsf
 	shallow = true
 	registered = true
+[submodule "maptiles"]
+	path = maptiles
+	url = https://github.com/riatelab/maptiles
+	shallow = true
+	registered = true
 [submodule "MTA"]
 	path = MTA
 	url = https://github.com/riatelab/mta
