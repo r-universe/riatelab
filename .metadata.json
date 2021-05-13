@@ -1,0 +1,38 @@
+[
+  {
+    "package": "cartography",
+    "oncran": true
+  },
+  {
+    "package": "linemap",
+    "oncran": true
+  },
+  {
+    "package": "mapsf",
+    "oncran": true
+  },
+  {
+    "package": "maptiles",
+    "oncran": true
+  },
+  {
+    "package": "MTA",
+    "oncran": true
+  },
+  {
+    "package": "osrm",
+    "oncran": true
+  },
+  {
+    "package": "potential",
+    "oncran": true
+  },
+  {
+    "package": "SpatialPosition",
+    "oncran": false
+  },
+  {
+    "package": "tanaka",
+    "oncran": true
+  }
+]
