@@ -40,7 +40,7 @@
 	registered = true
 [submodule "SpatialPosition"]
 	path = SpatialPosition
-	url = https://github.com/riatelab/SpatialPosition
+	url = https://github.com/riatelab/spatialposition
 	shallow = true
 	registered = true
 [submodule "tanaka"]

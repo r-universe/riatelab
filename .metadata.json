@@ -29,7 +29,7 @@
   },
   {
     "package": "SpatialPosition",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tanaka",
