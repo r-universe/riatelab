@@ -1,21 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/riatelab/universe
 	shallow = true
 	branch = HEAD
-[submodule "cartography"]
-	path = cartography
-	url = https://github.com/riatelab/cartography
-	shallow = true
-	registered = true
-[submodule "linemap"]
-	path = linemap
-	url = https://github.com/riatelab/linemap
-	shallow = true
-	registered = true
 [submodule "mapsf"]
 	path = mapsf
 	url = https://github.com/riatelab/mapsf
+	shallow = true
+	registered = true
+[submodule "MTA"]
+	path = MTA
+	url = https://github.com/riatelab/MTA
 	shallow = true
 	registered = true
 [submodule "maptiles"]
@@ -23,14 +18,19 @@
 	url = https://github.com/riatelab/maptiles
 	shallow = true
 	registered = true
-[submodule "MTA"]
-	path = MTA
-	url = https://github.com/riatelab/mta
-	shallow = true
-	registered = true
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/riatelab/osrm
+	shallow = true
+	registered = true
+[submodule "fisheye"]
+	path = fisheye
+	url = https://github.com/riatelab/fisheye
+	shallow = true
+	registered = true
+[submodule "tanaka"]
+	path = tanaka
+	url = https://github.com/riatelab/tanaka
 	shallow = true
 	registered = true
 [submodule "potential"]
@@ -38,13 +38,18 @@
 	url = https://github.com/riatelab/potential
 	shallow = true
 	registered = true
-[submodule "SpatialPosition"]
-	path = SpatialPosition
-	url = https://github.com/riatelab/spatialposition
+[submodule "linemap"]
+	path = linemap
+	url = https://github.com/riatelab/linemap
 	shallow = true
 	registered = true
-[submodule "tanaka"]
-	path = tanaka
-	url = https://github.com/riatelab/tanaka
+[submodule "cartography"]
+	path = cartography
+	url = https://github.com/riatelab/cartography
+	shallow = true
+	registered = true
+[submodule "SpatialPosition"]
+	path = SpatialPosition
+	url = https://github.com/riatelab/SpatialPosition
 	shallow = true
 	registered = true

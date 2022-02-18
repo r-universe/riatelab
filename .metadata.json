@@ -1,18 +1,6 @@
 [
   {
-    "package": "cartography",
-    "oncran": true
-  },
-  {
-    "package": "linemap",
-    "oncran": true
-  },
-  {
     "package": "mapsf",
-    "oncran": true
-  },
-  {
-    "package": "maptiles",
     "oncran": true
   },
   {
@@ -20,7 +8,19 @@
     "oncran": true
   },
   {
+    "package": "maptiles",
+    "oncran": true
+  },
+  {
     "package": "osrm",
+    "oncran": true
+  },
+  {
+    "package": "fisheye",
+    "oncran": false
+  },
+  {
+    "package": "tanaka",
     "oncran": true
   },
   {
@@ -28,11 +28,15 @@
     "oncran": true
   },
   {
-    "package": "SpatialPosition",
+    "package": "linemap",
     "oncran": true
   },
   {
-    "package": "tanaka",
+    "package": "cartography",
+    "oncran": true
+  },
+  {
+    "package": "SpatialPosition",
     "oncran": true
   }
 ]
