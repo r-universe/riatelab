@@ -53,3 +53,8 @@
 	url = https://github.com/riatelab/SpatialPosition
 	shallow = true
 	registered = true
+[submodule "flows"]
+	path = flows
+	url = https://github.com/riatelab/flows
+	shallow = true
+	registered = true
