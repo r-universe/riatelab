@@ -36,10 +36,9 @@
     "oncran": true
   },
   {
-    "package": "SpatialPosition",
-    "oncran": true
+    "package": "flows"
   },
   {
-    "package": "flows"
+    "package": "mapiso"
   }
 ]

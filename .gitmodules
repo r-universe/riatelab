@@ -48,13 +48,13 @@
 	url = https://github.com/riatelab/cartography
 	shallow = true
 	registered = true
-[submodule "SpatialPosition"]
-	path = SpatialPosition
-	url = https://github.com/riatelab/SpatialPosition
-	shallow = true
-	registered = true
 [submodule "flows"]
 	path = flows
 	url = https://github.com/riatelab/flows
+	shallow = true
+	registered = true
+[submodule "mapiso"]
+	path = mapiso
+	url = https://github.com/riatelab/mapiso
 	shallow = true
 	registered = true
