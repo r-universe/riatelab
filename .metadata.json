@@ -39,6 +39,7 @@
     "package": "flows"
   },
   {
-    "package": "mapiso"
+    "package": "mapiso",
+    "oncran": true
   }
 ]
