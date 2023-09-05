@@ -2,36 +2,36 @@
 	path = .registry
 	url = https://github.com/riatelab/universe
 	branch = HEAD
-[submodule "mapsf"]
-	path = mapsf
-	url = https://github.com/riatelab/mapsf
 [submodule "MTA"]
 	path = MTA
 	url = https://github.com/riatelab/MTA
+[submodule "cartography"]
+	path = cartography
+	url = https://github.com/riatelab/cartography
+[submodule "fisheye"]
+	path = fisheye
+	url = https://github.com/riatelab/fisheye
+[submodule "flows"]
+	path = flows
+	url = https://github.com/riatelab/flows
+[submodule "linemap"]
+	path = linemap
+	url = https://github.com/riatelab/linemap
+[submodule "mapiso"]
+	path = mapiso
+	url = https://github.com/riatelab/mapiso
+[submodule "mapsf"]
+	path = mapsf
+	url = https://github.com/riatelab/mapsf
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/riatelab/maptiles
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/riatelab/osrm
-[submodule "fisheye"]
-	path = fisheye
-	url = https://github.com/riatelab/fisheye
-[submodule "tanaka"]
-	path = tanaka
-	url = https://github.com/riatelab/tanaka
 [submodule "potential"]
 	path = potential
 	url = https://github.com/riatelab/potential
-[submodule "linemap"]
-	path = linemap
-	url = https://github.com/riatelab/linemap
-[submodule "cartography"]
-	path = cartography
-	url = https://github.com/riatelab/cartography
-[submodule "flows"]
-	path = flows
-	url = https://github.com/riatelab/flows
-[submodule "mapiso"]
-	path = mapiso
-	url = https://github.com/riatelab/mapiso
+[submodule "tanaka"]
+	path = tanaka
+	url = https://github.com/riatelab/tanaka
