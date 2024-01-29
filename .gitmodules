@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/riatelab/universe
+	url = https://github.com/riatelab/riatelab.r-universe.dev
 	branch = HEAD
 [submodule "MTA"]
 	path = MTA
