@@ -14,6 +14,9 @@
 [submodule "flows"]
 	path = flows
 	url = https://github.com/riatelab/flows
+[submodule "gepaf"]
+	path = gepaf
+	url = https://github.com/riatelab/gepaf
 [submodule "linemap"]
 	path = linemap
 	url = https://github.com/riatelab/linemap
