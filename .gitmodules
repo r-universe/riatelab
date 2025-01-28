@@ -8,6 +8,9 @@
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/riatelab/cartography
+[submodule "distanamo"]
+	path = distanamo
+	url = https://github.com/riatelab/distanamo
 [submodule "fisheye"]
 	path = fisheye
 	url = https://github.com/riatelab/fisheye
