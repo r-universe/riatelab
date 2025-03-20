@@ -23,6 +23,9 @@
 [submodule "linemap"]
 	path = linemap
 	url = https://github.com/riatelab/linemap
+[submodule "mapinsetr"]
+	path = mapinsetr
+	url = https://github.com/riatelab/mapinsetr
 [submodule "mapiso"]
 	path = mapiso
 	url = https://github.com/riatelab/mapiso
