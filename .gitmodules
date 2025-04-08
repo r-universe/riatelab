@@ -50,3 +50,6 @@
 [submodule "tanaka"]
 	path = tanaka
 	url = https://github.com/riatelab/tanaka
+[submodule "valh"]
+	path = valh
+	url = https://github.com/riatelab/valh
