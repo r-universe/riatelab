@@ -35,6 +35,7 @@
 [submodule "maposm"]
 	path = maposm
 	url = https://github.com/riatelab/maposm
+	branch = *release
 [submodule "mapsf"]
 	path = mapsf
 	url = https://github.com/riatelab/mapsf
