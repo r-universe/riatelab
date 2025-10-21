@@ -32,6 +32,7 @@
 [submodule "maplegend"]
 	path = maplegend
 	url = https://github.com/riatelab/maplegend
+	branch = dev
 [submodule "maposm"]
 	path = maposm
 	url = https://github.com/riatelab/maposm
@@ -39,6 +40,7 @@
 [submodule "mapsf"]
 	path = mapsf
 	url = https://github.com/riatelab/mapsf
+	branch = dev
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/riatelab/maptiles
