@@ -47,6 +47,7 @@
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/riatelab/osrm
+	branch = dev
 [submodule "potential"]
 	path = potential
 	url = https://github.com/riatelab/potential
