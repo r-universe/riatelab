@@ -44,6 +44,7 @@
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/riatelab/maptiles
+	branch = dev
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/riatelab/osrm
