@@ -8,6 +8,9 @@
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/riatelab/cartography
+[submodule "citymix"]
+	path = citymix
+	url = https://codeberg.org/rCarto/citymix
 [submodule "distanamo"]
 	path = distanamo
 	url = https://github.com/riatelab/distanamo
