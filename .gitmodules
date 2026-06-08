@@ -20,6 +20,9 @@
 [submodule "flows"]
 	path = flows
 	url = https://github.com/riatelab/flows
+[submodule "geoviz"]
+	path = geoviz
+	url = https://github.com/riatelab/geoviz_R
 [submodule "gepaf"]
 	path = gepaf
 	url = https://github.com/riatelab/gepaf
@@ -55,6 +58,9 @@
 	path = osrm
 	url = https://github.com/riatelab/osrm
 	branch = dev
+[submodule "planisphere"]
+	path = planisphere
+	url = https://github.com/riatelab/planisphere
 [submodule "potential"]
 	path = potential
 	url = https://github.com/riatelab/potential
