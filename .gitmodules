@@ -20,8 +20,8 @@
 [submodule "flows"]
 	path = flows
 	url = https://github.com/riatelab/flows
-[submodule "geoviz"]
-	path = geoviz
+[submodule "geovizr"]
+	path = geovizr
 	url = https://github.com/riatelab/geovizr
 [submodule "gepaf"]
 	path = gepaf
