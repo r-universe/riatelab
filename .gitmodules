@@ -22,7 +22,7 @@
 	url = https://github.com/riatelab/flows
 [submodule "geoviz"]
 	path = geoviz
-	url = https://github.com/riatelab/geoviz_R
+	url = https://github.com/riatelab/geovizr
 [submodule "gepaf"]
 	path = gepaf
 	url = https://github.com/riatelab/gepaf
