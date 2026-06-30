@@ -50,6 +50,7 @@
 [submodule "mapsf.gui"]
 	path = mapsf.gui
 	url = https://codeberg.org/riatelab/mapsf.gui
+	branch = dev
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/riatelab/maptiles
