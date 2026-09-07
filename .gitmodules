@@ -42,7 +42,7 @@
 [submodule "maposm"]
 	path = maposm
 	url = https://github.com/riatelab/maposm
-	branch = maposm_0.2.0
+	branch = maposm_0.3.0
 [submodule "mapsf"]
 	path = mapsf
 	url = https://github.com/riatelab/mapsf
