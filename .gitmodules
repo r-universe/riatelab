@@ -41,7 +41,7 @@
 	branch = dev
 [submodule "maposm"]
 	path = maposm
-	url = https://github.com/riatelab/maposm
+	url = https://codeberg.org/riatelab/maposm
 	branch = maposm_0.3.0
 [submodule "mapsf"]
 	path = mapsf
