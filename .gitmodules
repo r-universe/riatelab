@@ -57,7 +57,6 @@
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/riatelab/osrm
-	branch = dev
 [submodule "planisphere"]
 	path = planisphere
 	url = https://github.com/riatelab/planisphere
