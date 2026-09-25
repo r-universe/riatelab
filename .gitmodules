@@ -56,7 +56,7 @@
 	branch = dev
 [submodule "osrm"]
 	path = osrm
-	url = https://github.com/riatelab/osrm
+	url = https://codeberg.org/riatelab/osrm
 [submodule "planisphere"]
 	path = planisphere
 	url = https://github.com/riatelab/planisphere
