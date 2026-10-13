@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "MTA"]
 	path = MTA
-	url = https://github.com/riatelab/MTA
+	url = https://codeberg.org/riatelab/MTA
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/riatelab/cartography
