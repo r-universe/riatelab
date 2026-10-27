@@ -19,7 +19,7 @@
 	url = https://github.com/riatelab/fisheye
 [submodule "flows"]
 	path = flows
-	url = https://github.com/riatelab/flows
+	url = https://codeberg.org/riatelab/flows
 [submodule "geovizr"]
 	path = geovizr
 	url = https://github.com/riatelab/geovizr
